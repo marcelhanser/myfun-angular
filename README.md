@@ -1,5 +1,8 @@
 # Myfun
 
+Deployed hier:
+http://myfun-eu-west-1-angular.s3-website-eu-west-1.amazonaws.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
 ## Development server
@@ -25,3 +28,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
