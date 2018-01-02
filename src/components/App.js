@@ -1,5 +1,6 @@
 import React from 'react';
 import YeomanImage from './YeomanImage';
+import FileUpload from './FileUpload'
 import './app.css';
 
 class AppComponent extends React.Component {
@@ -8,6 +9,7 @@ class AppComponent extends React.Component {
     return (
       <div className="index">
         <YeomanImage />
+        <FileUpload/>
         <div className="notice">
           Please edit <code>src/components/App.js</code> to get started!
         </div>
