@@ -10,6 +10,7 @@ class AppComponent extends React.Component {
       <div className="index">
         <YeomanImage />
         <FileUpload/>
+
         <div className="notice">
           Please edit <code>src/components/App.js</code> to get started!
         </div>
